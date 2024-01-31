@@ -8,6 +8,15 @@
 Αναλυτική περιγραφή του έργου: 
 
 
+Λίστα εξοπλισμού:
+* ESP32 Development Board - ESP32-S3-DEVKITC-1-N8R8-ESP32-S3-DevKitC-1-N8R8
+* Mini Water Pump Submersible 3-5V DC - Horizontal
+* Silicone Tube Transparent 7x10mm - per meter
+* Αισθητήρας Υγρασίας & Θερμοκρασίας DHT11 (2 τεμάχια)
+* Αισθητήρας Φορτίου - 1kg
+* Ενισχυτής Αισθητήρα Φορτίου
+* Basic 16x2 Character LCD - White on Blue 5V (with Headers)
+
 
 Εκπαιδευτικοί στόχοι:
 * Να γνωρίσουν οι μαθητές πώς λειτουργεί η αφαλάτωση
