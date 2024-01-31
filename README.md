@@ -18,6 +18,9 @@
 * Ενισχυτής Αισθητήρα Φορτίου
 * Basic 16x2 Character LCD - White on Blue 5V (with Headers)
 * Αισθητήρας στάθμης νερού
+* Breadboard
+* Καλώδια Male - Male
+* Καλώδια Male - Female
 
 
 Εκπαιδευτικοί στόχοι:
