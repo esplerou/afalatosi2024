@@ -16,12 +16,14 @@
 * Αισθητήρας Υγρασίας & Θερμοκρασίας DHT11 (2 τεμάχια)
 * Αισθητήρας Φορτίου - 1kg
 * Ενισχυτής Αισθητήρα Φορτίου
-* Basic 16x2 Character LCD - White on Blue 5V (with Headers)
+* LCD Keypad Shield for Arduino
 * Αισθητήρας στάθμης νερού
-* Breadboard
-* Καλώδια Male - Male
-* Καλώδια Male - Female
+* Breadboard 830 Tie Point (Classic)
+* 40wire 20cm - Male to Male
+* 40wire 20cm - Female to Μale
+* Dual Motor Driver Module L298N
 
+Ενδεικτικό κόστος: 70 € (χωρίς να υπολογιστεί το κόστος της ξύλινης κατασκευής και χωρίς να υπολογιστεί το κόστος του plexiglass).
 
 Εκπαιδευτικοί στόχοι:
 * Να γνωρίσουν οι μαθητές πώς λειτουργεί η αφαλάτωση
