@@ -13,7 +13,7 @@
 * ESP32 Development Board - ESP32-S3-DEVKITC-1-N8R8-ESP32-S3-DevKitC-1-N8R8
 * Mini Water Pump Submersible 3-5V DC - Horizontal
 * Silicone Tube Transparent 7x10mm - per meter
-* Αισθητήρας Υγρασίας & Θερμοκρασίας DHT11 (2 τεμάχια)
+* Αισθητήρας Υγρασίας & Θερμοκρασίας DHT11 (3 τεμάχια)
 * Αισθητήρας Φορτίου - 1kg
 * Ενισχυτής Αισθητήρα Φορτίου
 * LCD Keypad Shield for Arduino
