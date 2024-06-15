@@ -40,6 +40,7 @@
 * <a href="docs/Συνδεσμολογία.pdf">Συνδεσμολογία πάνω στον ESP32</a><br>
 * <a href="https://wokwi.com/projects/395668626361325569">Κύκλωμα πάνω στον προσομοιωτη wokwi</a><br>
 * <a href="https://docs.google.com/spreadsheets/d/1hxabuczRZIIJzgDkfBVMJcOoLHTuhKuI-8rgog015v0/edit?usp=sharing">Google Sheet με τις μετρήσεις</a>
+* <a href="https://video.sch.gr/asset/detail/u2mulKFTWOlVmXGYldE1hVhN/YfjnHfaRMrLPjKchlhdljH1q">Βίντεο παρουσίασης</a>
 
 Συντονιστές του έργου: 
 * Βασίλειος Νταλούκας, Εκπαιδευτικός ΠΕ86 Πληροφορικής
