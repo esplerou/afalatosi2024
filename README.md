@@ -33,9 +33,9 @@
 * Να ευαισθητοποιηθούν πάνω σε τεχνολογίες φιλικές προς το περιβάλλον.
 * Να προωθηθεί η δημιουργία κοινοτήτων καινοτομίας.
 
-<a href="images.htm">Φωτογραφικό υλικό</a>
-<a href="code/code.gs">Apps script για την επικοινωνία ESP32 και GoogelSheet</a>
-<a href="code/afalatosi.ino">Κώδικας για τον ESP32</a>
+<a href="images.htm">Φωτογραφικό υλικό</a><br>
+<a href="code/code.gs">Apps script για την επικοινωνία ESP32 και GoogelSheet</a><br>
+<a href="code/afalatosi.ino">Κώδικας για τον ESP32</a><br>
 
 <a href="docs/Συνδεσμολογία.pdf">Συνδεσμολογία πάνω στον ESP32</a>
 
