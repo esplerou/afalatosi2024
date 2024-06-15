@@ -37,9 +37,8 @@
 * <a href="images.htm">Φωτογραφικό υλικό</a><br>
 * <a href="code/code.gs">Apps script για την επικοινωνία ESP32 και GoogelSheet</a><br>
 * <a href="code/afalatosi.ino">Κώδικας για τον ESP32</a><br>
-* <a href="docs/Συνδεσμολογία.pdf">Συνδεσμολογία πάνω στον ESP32</a>
-
-Κύκλωμα: https://wokwi.com/projects/395668626361325569
+* <a href="docs/Συνδεσμολογία.pdf">Συνδεσμολογία πάνω στον ESP32</a><br>
+* Κύκλωμα: https://wokwi.com/projects/395668626361325569
 
 Συντονιστές του έργου: 
 * Βασίλειος Νταλούκας, Εκπαιδευτικός ΠΕ86 Πληροφορικής
